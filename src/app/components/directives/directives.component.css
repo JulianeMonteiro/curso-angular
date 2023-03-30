@@ -1,0 +1,11 @@
+.small-title {
+  font-size: 10px;
+}
+
+.green-title {
+  color: firebrick;
+}
+
+.underline-title {
+  text-decoration: underline wavy;
+}
