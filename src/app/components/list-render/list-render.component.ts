@@ -28,4 +28,11 @@ export class ListRenderComponent {
       type: 'Horse',
     },
   ];
+
+  animal = [
+    {
+      name: 'Alguma coisa',
+      type: 'Outra coisa',
+    },
+  ];
 }
